@@ -1,4 +1,5 @@
-# amazon-reviews-dissatisfaction-prediction
+# Predicting Customer Dissatisfaction from Amazon Video Game Reviews
+
 ## Problem Statement & Goal
 Nowadays, customer satisfaction is one of the most important factors behind the success of any e-commerce company. That's why predicting customer dissatisfaction early, and acting on it before the customer leaves, is much better than waiting until they're already gone to react. With that in mind, I built an end-to-end project using NLP and machine learning that predicts whether a customer is satisfied or not, based only on their feedback (text).
 
