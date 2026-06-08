@@ -7,6 +7,7 @@ For this project, I used the Amazon Reviews 2023 dataset, focusing on the video 
 
 ## Data storage
 To store the data, I used Amazon S3, which is well suited for large, semi-structured files like this. I created a bucket and uploaded my dataset to it.
+
 <img width="452" height="253" alt="image" src="https://github.com/user-attachments/assets/f00f1cc5-1acc-4921-9ff2-d2e939d6d741" />
 
 
