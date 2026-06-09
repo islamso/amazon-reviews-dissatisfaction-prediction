@@ -49,6 +49,7 @@ vaderSentiment : sentiment scoring
 Pandas / NumPy : data handling on the sample
 matplotlib / seaborn : charts and visualisation
 
-## 
+## Author 
+Built by Islam soussi, an AI Engineer.
 
 
